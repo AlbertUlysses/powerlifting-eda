@@ -1,4 +1,7 @@
 # powerlifting-eda
-Start of EDA
-I can filter the data by meet however that is 8410, too many
-I can filter the data by equipment which is only 5 
+
+Jupyter notebook that runs some exploratory data analysis on a dataset that I prevoisly cleaned up. The notebook explains each step and function. 
+
+## Installation
+
+Currently there is no special virtual environment for this project. In the future I would like to recreate it and add a requirements.txt file.
