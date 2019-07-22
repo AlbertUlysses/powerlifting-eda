@@ -1,6 +1,6 @@
 # powerlifting-eda
 
-Jupyter notebook that runs some exploratory data analysis on a dataset that I prevoisly cleaned up. The notebook explains each step and function. 
+This Jupyter notebook picks up from a previous project: https://github.com/AlbertUlysses/Clean_data . It runs exploratory data analysis on the dataset. The notebook explains each step and function used. 
 
 ## Installation
 
